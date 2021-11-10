@@ -1,0 +1,16 @@
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\obj\Debug\net6.0\Intern.GlobalUsings.g.cs
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\obj\Debug\net6.0\Intern.csproj.AssemblyReference.cache
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\obj\Debug\net6.0\Intern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\obj\Debug\net6.0\Intern.AssemblyInfoInputs.cache
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\obj\Debug\net6.0\Intern.AssemblyInfo.cs
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\obj\Debug\net6.0\Intern.csproj.CoreCompileInputs.cache
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\bin\Debug\net6.0\Intern.exe
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\bin\Debug\net6.0\Intern.deps.json
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\bin\Debug\net6.0\Intern.runtimeconfig.json
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\bin\Debug\net6.0\Intern.dll
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\bin\Debug\net6.0\ref\Intern.dll
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\bin\Debug\net6.0\Intern.pdb
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\obj\Debug\net6.0\Intern.dll
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\obj\Debug\net6.0\ref\Intern.dll
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\obj\Debug\net6.0\Intern.pdb
+C:\Users\ritas\Desktop\Разработчик учеба\Знакомство с языков программирования С#\Задачи\Exercises\Intern\obj\Debug\net6.0\Intern.genruntimeconfig.cache
